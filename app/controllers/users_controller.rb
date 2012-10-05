@@ -1,5 +1,4 @@
 class UsersController < ApplicationController
-  #autocomplete :cidade, :nome, :display_value => :cidade_uf_nome, :extra_data => [:uf_id]
   # GET /users
   # GET /users.json
   def index

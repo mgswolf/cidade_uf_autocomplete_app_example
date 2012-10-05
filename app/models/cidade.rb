@@ -17,5 +17,4 @@ class Cidade < ActiveRecord::Base
     end
     @cidades_hash
   end
-
 end
