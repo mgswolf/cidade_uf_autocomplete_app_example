@@ -1,6 +1,4 @@
-Cidade Estado Jqueryui autocomplete Rails App example.
-==================================
-
+== Cidade Estado Jqueryui autocomplete App example.
 
 Aplicação exemplificando o uso do JqueryUi autocomplete com um cadastro de Cidades e Estados do Brasil
 
